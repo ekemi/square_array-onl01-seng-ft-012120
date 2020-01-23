@@ -5,5 +5,5 @@ def square_array(array)
   puts h<<p**2
    
     end
-   print h
+   h
 end
