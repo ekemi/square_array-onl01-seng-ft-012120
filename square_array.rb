@@ -4,4 +4,5 @@ def square_array(array)
    array.each do |p|
   puts p**2
     end
+    puts p
 end
